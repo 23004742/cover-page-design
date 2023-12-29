@@ -157,7 +157,7 @@ Publish the website in the LocalHost.
 </html>
 
 ## Output:
-![Screenshot 2023-12-29 132356](https://github.com/23004742/cover-page-design/assets/150319318/6f69dee0-0d60-4d61-8a3c-0a1ab0f17846)
+![Screenshot 2023-12-29 132356](https://github.com/23004742/cover-page-design/assets/150319318/d66dfd84-9ae7-4e34-9539-b124954d84d2)
 
 
 ## Result:
